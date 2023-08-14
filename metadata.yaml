@@ -1,0 +1,37 @@
+_repo: Philoctete-b-Le-traite-du-Narcisse-La-tentation-amoureuse-El-Hadj_71227
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gide, André
+    aliases:
+    - Gide, Andre
+    - Gide, André Paul Guillaume
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '2184'
+    url: http://www.gutenberg.org/2009/agents/2184
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Gide
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide
+description: ''
+gutenberg_issued: '2023-07-19'
+identifiers:
+  gutenberg: '71227'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k706858
+pgterms:marc905: 20221229073203gide
+pgterms:marc906: '1899'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bMercure de France, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Philoctète : $b Le traité du Narcisse. La tentation amoureuse. El Hadj'
+url: http://www.gutenberg.org/ebooks/71227
