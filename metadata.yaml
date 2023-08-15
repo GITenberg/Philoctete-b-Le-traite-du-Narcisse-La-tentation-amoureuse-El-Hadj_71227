@@ -1,5 +1,8 @@
 _repo: Philoctete-b-Le-traite-du-Narcisse-La-tentation-amoureuse-El-Hadj_71227
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71227-h/images/cover.jpg
 creator:
   author:
     agent_name: Gide, André
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Gide
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71227#Philoctete-b-Le-traite-du-Narcisse-La-tentation-amoureuse-El-Hadj
 gutenberg_issued: '2023-07-19'
 identifiers:
   gutenberg: '71227'
